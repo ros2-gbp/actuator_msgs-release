@@ -1,0 +1,8 @@
+ros-rolling-actuator-msgs (0.0.1-1jammy) jammy; urgency=high
+
+  * Initial commit.
+  * Contributors: Benjamin Perseghetti
+
+ -- Benjamin Perseghetti <bperseghetti@rudislabs.com>  Tue, 11 Apr 2023 04:00:00 -0000
+
+
