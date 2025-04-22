@@ -1,1 +1,1 @@
-{"base": "0bbbbfe", "parent": "debian/rolling/actuator_msgs", "previous": "11c229f", "trim": "", "trimbase": ""}
+{"base": "c8003ce7e561", "parent": "debian/kilted/actuator_msgs", "previous": "264849fa5d7d", "trim": "", "trimbase": ""}
